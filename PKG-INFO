@@ -1,3 +1,24 @@
+Metadata-Version: 2.1
+Name: PyPhisher
+Version: 2.1.7
+Summary: Ultimate phishing tool in python with dual tunneling, 77 templates and many more!
+Home-page: https://github.com/KasRoudra/PyPhisher/
+License: MIT
+Author: KasRoudra
+Author-email: kasroudrakrd@gmail.com
+Requires-Python: >=3.9,<4.0
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Requires-Dist: beautifulsoup4 (>=4.12,<5.0)
+Requires-Dist: requests (>=2.3.0,<3.0.0)
+Requires-Dist: rich (>=13.0.0,<14.0.0)
+Project-URL: Repository, https://github.com/KasRoudra/PyPhisher/
+Description-Content-Type: text/markdown
+
 <h1 align="center">PyPhisher</h1>
 
 <p align="center">
@@ -227,4 +248,5 @@ Some base codes and templates are from [htr-tech](https://github.com/htr-tech/zp
 - [![Messenger](https://img.shields.io/badge/Messenger-KasRoudra-orange?style=for-the-badge&logo=messenger)](https://m.me/KasRoudra)
 
 - [![Telegram](https://img.shields.io/badge/Telegram-KasRoudra-indigo?style=for-the-badge&logo=telegram)](https://t.me/KasRoudra)
+
 
